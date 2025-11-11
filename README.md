@@ -104,6 +104,7 @@
 <div align="center" style="padding-top:16px">
   <img src="https://media1.tenor.com/m/11RO_DtqzQYAAAAC/dino-chromedino.gif" height="85" alt="dino chrome"/>
   <img src="https://media.giphy.com/media/3oKIPvvaugnP88ZkCs/giphy.gif" height="85" alt="dino dance"/>
+  <img src="https://media.giphy.com/media/3oKIPvvaugnP88ZkCs/giphy.gif" height="85" alt="dino dance](https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif"/>
   <br/>⭐️🚀🦖✨💫🌟
 </div>
 
