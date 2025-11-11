@@ -1,3 +1,4 @@
+
 <!-- 🌟 SEXY GITHUB PROFILE README for Ayush Godse 🚀🦖✨ -->
 
 <div align="center">
@@ -11,6 +12,9 @@
   </p>
   <p>🌍 Pune, India &nbsp;|&nbsp; Code, Launch, Repeat! 🚀🪐</p>
   <img src="https://media1.tenor.com/m/11RO_DtqzQYAAAAC/dino-chromedino.gif" height="110" alt="Dino Game"/>
+  <br/>
+  <!-- Overview image direct below (uploaded by user) -->
+  <img src="https://user-images.githubusercontent.com/130903471/282193588-4a8fd024-5a52-459b-9813-42c88403df57.png" height="90" alt="GitHub Overview"/>
 </div>
 
 ---
@@ -49,6 +53,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <!-- Add more badges here as you & your stack grows -->
 </p>
 
 ---
@@ -102,8 +107,14 @@
 
 <!-- Dino Fun GIF Section -->
 <div align="center" style="padding-top:16px">
-  <img src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" height="85" alt="ngoding mulu"/>
+  <img src="https://media1.tenor.com/m/11RO_DtqzQYAAAAC/dino-chromedino.gif" height="85" alt="dino chrome"/>
+  <img src="https://media.giphy.com/media/3oKIPvvaugnP88ZkCs/giphy.gif" height="85" alt="dino dance"/>
   <br/>⭐️🚀🦖✨💫🌟
+</div>
+
+<!-- Extra Coding Fun GIF Section -->
+<div align="center" style="padding-top:16px">
+  <img src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" height="90" alt="coding forever"/>
 </div>
 
 ---
@@ -114,3 +125,4 @@
 - Avatar: friendly, clear photo or cool graphic = 🔥
 - Commit often for an epic contribution graph!
 -->
+````
